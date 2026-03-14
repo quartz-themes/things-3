@@ -89,7 +89,6 @@ jobs:
             git add quartz.lock.json
             git add quartz.config.default.yaml
             git add quartz.config.yaml
-            git add 
             git commit -m "synced dependencies"
             git push
 
