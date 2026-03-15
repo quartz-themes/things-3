@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: things-3
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz-themes.github.io
+  baseUrl: quartz-themes.github.io/things-3
   ignorePatterns:
     - private
     - templates
@@ -247,7 +247,7 @@ plugins:
   - source: github:saberzero1/quartz-themes
     enabled: true
     options:
-      theme: default
+      theme: things-3
       variation: null
 layout:
   groups:
